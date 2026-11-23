@@ -1,0 +1,12 @@
+# 実際のカード番号・個人情報入りの設定
+papermono-proto/data/config.json
+# 本体から回収したログ(周囲のSSID・BSSID入り)
+logs/
+# 番号が写った写真
+assets/1000000737.jpg
+
+# Arduino IDE の出力
+papermono-proto/build/
+
+*~
+.DS_Store

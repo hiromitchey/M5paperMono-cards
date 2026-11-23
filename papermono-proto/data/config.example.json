@@ -1,0 +1,29 @@
+{
+  "scan": {
+    "interval_sec": 15,
+    "confirm_after_sec": 3,
+    "enter_hits": 2,
+    "exit_misses": 3
+  },
+  "lawson": {
+    "ssid_prefixes": ["LAWSON_Free_Wi-Fi", "PM_TEST_LAWSON"],
+    "rssi_min": -80
+  },
+  "card": {
+    "label": "Ponta",
+    "format": "NW7",
+    "value": "A000000000000000A",
+    "narrow_px": 3,
+    "wide_px": 8
+  },
+  "profile": {
+    "name": "(表示名)",
+    "handle": "@kgsbl",
+    "bio": "(紹介文)",
+    "url": "https://x.com/kgsbl",
+    "icon": "/icon.png"
+  },
+  "power": {
+    "light_sleep": true
+  }
+}
