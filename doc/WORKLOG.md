@@ -29,3 +29,4 @@
 - 電池は取れていた(86%)。-2% は起動直後の1回だけ
 - 次:もう一度持ち歩いて `boots` で再起動理由を確認、15秒間隔で入店時に間に合うか確認
 - git init・初回コミット、README 追加。GitHub(Public、ユーザーが作成)へ push 予定。config.json・番号写真・logs/ は除外を確認
+- push 完了:https://github.com/hiromitchey/M5paperMono-cards (main)
